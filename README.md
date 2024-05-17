@@ -33,11 +33,11 @@ This dataset contains images of the following food items:
    - **[tensorflow](https://www.tensorflow.org)**
    - **[matplotlib](https://matplotlib.org/)**
    - **[numpy](https://numpy.org/)**
-   - **[streamli](https://streamlit.io)t**
+   - **[streamlit](https://streamlit.io)**
      
 3. Running the Streamlit App
    ```
-   streamlit run deploy_app.py
+   streamlit run app.py
    ```
    
 ## Contact
